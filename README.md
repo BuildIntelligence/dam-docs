@@ -1,11 +1,11 @@
-###Digital Asset Manager
+### Digital Asset Manager
 
-##1.8.0
-#Improvements:
+## 1.8.0
+# Improvements:
 -
 -
 -
-#Fixes:
+# Fixes:
 -
 -
 -
