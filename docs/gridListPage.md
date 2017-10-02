@@ -1,5 +1,8 @@
 # Overview
 
+### Syncing
+The "Save and Sync" button has two functions. If no rows have been modified by the user it looks for new or updated entries from the cloud and syncs them with your local application. If rows have been modified by the user it syncs those changes with the cloud and performs the sync of new and/or updated entries from the cloud database.
+
 ### Editing from the grid view
 You can edit rows directly from the grid view by double clicking on a row or by highlighing a row and then pressing F2.
 After you're finished editing a row you can either click outside the row or hit enter. To save any changes you've made in
