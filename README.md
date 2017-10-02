@@ -1,11 +1,7 @@
-### Digital Asset Manager
+# Digital Asset Manager
 
-## 1.8.0
-# Improvements:
--
--
--
-# Fixes:
--
--
--
+## More Docs coming soon
+
+## Project coming soon
+
+## Release v1.8.1 

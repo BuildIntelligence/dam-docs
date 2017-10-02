@@ -1,3 +1,9 @@
+#v1.8.1
+Minor changes to UI. 
+##Fixes:
+- Fixed Release Notes section on Home Page not appearing.
+- Fixed "What's New" section not displaying correctly in certain cases
+
 # Changes 1.8.0:
 
 Version 1.8.0 brings in some major behind the scenes overhauls to greatly improve stability, performance, and user experience. Saving, editing, and updating entities no longer has occasional errors saving locally.
