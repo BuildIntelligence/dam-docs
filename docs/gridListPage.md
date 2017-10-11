@@ -1,5 +1,4 @@
 # Overview
-
 ### Syncing
 The "Save and Sync" button has two functions. If no rows have been modified by the user it looks for new or updated entries from the cloud and syncs them with your local application. If rows have been modified by the user it syncs those changes with the cloud and performs the sync of new and/or updated entries from the cloud database.
 
@@ -28,3 +27,6 @@ A: To reduce clutter we've minimized the amount of columns displayed on the grid
 
 ### Q: I'm not seeing an option for a dropdown menu that's appropriate for what I'm adding or editing, how do I add a new dropdown option?
 A: All of the dropdown menu options have their own configuration pages where you can add, edit, or delete options. You'll find these under the "Digital Asset Categories" or "Builder Common" navigation sections.
+
+### Q: I'm not seeing an entry that I had made or that someone else had made and was expecting to see. What can I do?
+A: While all of the pages are set to automatically sync when you navigate them, sometimes records are added after that sync is performed and don't show up right away. You can click the "Sync and Save" button to sync with the database again and pull those records. If you are seeing no records at all, try navigating to the Settings page and clearing the local cache and trying again.
