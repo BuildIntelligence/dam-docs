@@ -1,6 +1,24 @@
-#v1.8.1
+# v1.9.0
+
+## Important! Be sure to go to settings and clear the local cache/storage in-app. Some pages may not function correctly and the app might crash unexpectedly until you do this.
+
+## New Features:
+
+### Workflows and Templates:
+Users can now create a set of asset requirements called a Workflow.
+These Workflows generate Templates that you can place assets into to fulfil the workflow requirements.
+You can add these asset to templates via the corresponding Template page, or via the Add To Workflow button in an Assets detail page.
+
+
+## Bug Fixes:
+
+- On deleting a Marketing Ad Asset Tag from a Marketing Ad Asset the UI will now properly reflect the delete.
+- Alphabetized more dropdown lists.
+
+
+# v1.8.1
 Minor changes to UI. 
-##Fixes:
+## Fixes:
 - Fixed Release Notes section on Home Page not appearing.
 - Fixed "What's New" section not displaying correctly in certain cases
 
