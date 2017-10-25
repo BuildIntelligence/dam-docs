@@ -4,10 +4,5 @@ The Community Asset Template Page is a page to view a Community Asset Template f
 
 #Page Functions
 
-<details>
- <summary>Summary Goes Here</summary>
- ...this is hidden, collapsable content...
-</details>
-
 Create Or Modify A Community Asset Template
-![alt text]( "Create Or Modify A Community Asset Template")
+![alt text](https://buildintelligence.sharepoint.com/sites/SoftwareDevelopment/_layouts/15/guestaccess.aspx?docid=1a276f01245ad47edb58f049320b479d9&authkey=Ac7MbAAYlzJz2ukZr2DR-8w "Create Or Modify A Community Asset Template")

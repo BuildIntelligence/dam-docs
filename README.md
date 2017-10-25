@@ -4,4 +4,4 @@
 
 ## Project coming soon
 
-## Release v1.8.1 
+## Release v1.9.0
